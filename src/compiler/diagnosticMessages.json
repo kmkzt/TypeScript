@@ -835,7 +835,7 @@
         "category": "Error",
         "code": 1254
     },
-    "A definite assignment assertion '!' is not permitted in this context.": {
+    "A definite assignment assertion ('!') cannot be used here because its binding lacks a type annotation.": {
         "category": "Error",
         "code": 1255
     },
